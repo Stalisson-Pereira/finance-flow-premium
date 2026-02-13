@@ -1,0 +1,53 @@
+{
+    "app": {
+        "name": "Finance Flow Premium"
+    },
+    "dashboard": {
+        "welcome": "Welcome back!",
+        "subtitle": "Here is your current financial overview",
+        "balance": "Current Balance",
+        "income": "Total Income",
+        "expenses": "Total Expenses",
+        "dreams": "Dreams Progress",
+        "of": "of"
+    },
+    "navbar": {
+        "dashboard": "Dashboard",
+        "transactions": "Transactions",
+        "dreams": "Dreams",
+        "exchange": "Exchange",
+        "settings": "Settings"
+    },
+    "transactions": {
+        "title": "Transactions",
+        "add": "Add Transaction",
+        "income": "Income",
+        "expense": "Expense",
+        "amount": "Amount",
+        "category": "Category",
+        "description": "Description",
+        "date": "Date"
+    },
+    "dreams": {
+        "title": "Financial Dreams",
+        "add": "Add Dream",
+        "target": "Target Amount",
+        "deadline": "Deadline",
+        "progress": "Progress"
+    },
+    "exchange": {
+        "title": "Currency Exchange",
+        "from": "From",
+        "to": "To",
+        "amount": "Amount",
+        "convert": "Convert",
+        "result": "Result"
+    },
+    "settings": {
+        "title": "Settings",
+        "theme": "Theme",
+        "language": "Language",
+        "light": "Light",
+        "dark": "Dark"
+    }
+}
