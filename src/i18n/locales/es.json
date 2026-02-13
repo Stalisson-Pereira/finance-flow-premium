@@ -1,0 +1,53 @@
+{
+    "app": {
+        "name": "Finance Flow Premium"
+    },
+    "dashboard": {
+        "welcome": "¡Bienvenido de nuevo!",
+        "subtitle": "Aquí está tu visión financiera actual",
+        "balance": "Saldo Actual",
+        "income": "Ingresos Totales",
+        "expenses": "Gastos Totales",
+        "dreams": "Progreso de Sueños",
+        "of": "de"
+    },
+    "navbar": {
+        "dashboard": "Dashboard",
+        "transactions": "Transacciones",
+        "dreams": "Sueños",
+        "exchange": "Cambio",
+        "settings": "Configuraciones"
+    },
+    "transactions": {
+        "title": "Transacciones",
+        "add": "Agregar Transacción",
+        "income": "Ingreso",
+        "expense": "Gasto",
+        "amount": "Monto",
+        "category": "Categoría",
+        "description": "Descripción",
+        "date": "Fecha"
+    },
+    "dreams": {
+        "title": "Sueños Financieros",
+        "add": "Agregar Sueño",
+        "target": "Monto Objetivo",
+        "deadline": "Fecha Límite",
+        "progress": "Progreso"
+    },
+    "exchange": {
+        "title": "Cambio de Moneda",
+        "from": "De",
+        "to": "A",
+        "amount": "Monto",
+        "convert": "Convertir",
+        "result": "Resultado"
+    },
+    "settings": {
+        "title": "Configuraciones",
+        "theme": "Tema",
+        "language": "Idioma",
+        "light": "Claro",
+        "dark": "Oscuro"
+    }
+}
